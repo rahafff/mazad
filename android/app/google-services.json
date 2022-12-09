@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949916362837",
+    "project_id": "elite-auction-4c48a",
+    "storage_bucket": "elite-auction-4c48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949916362837:android:142a8d5f84c5e257c8ccdc",
+        "android_client_info": {
+          "package_name": "com.sdnone.elite_auction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949916362837-e2qo8jgpjlfgs4eemt3jlal1rc9qchcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdnone.elite_auction",
+            "certificate_hash": "df2af4b42b8b17f224e2183fcc5f2d4c21471b00"
+          }
+        },
+        {
+          "client_id": "949916362837-7r35d9stfqfb454b66m5rrm3q7kitfrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ouavYWPTc2_SOcqU_qL-O6iZdbZ0it0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949916362837-7r35d9stfqfb454b66m5rrm3q7kitfrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
